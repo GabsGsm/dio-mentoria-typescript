@@ -1,0 +1,23 @@
+{
+  "name": "projeto-typescript-dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch" : "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabsGsm/dio-mentoria-typescript.git"
+  },
+  "author": "Gabriel Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabsGsm/dio-mentoria-typescript/issues"
+  },
+  "homepage": "https://github.com/GabsGsm/dio-mentoria-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
